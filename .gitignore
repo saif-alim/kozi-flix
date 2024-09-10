@@ -1,0 +1,2 @@
+# Ignore the constants.kt file
+/app/src/main/java/learning/vyprco/koziflix/movieList/data/remote/
